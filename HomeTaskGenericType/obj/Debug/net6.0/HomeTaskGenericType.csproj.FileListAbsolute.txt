@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\bin\Debug\net6.0\HomeTaskGenericType.exe
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\bin\Debug\net6.0\HomeTaskGenericType.deps.json
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\bin\Debug\net6.0\HomeTaskGenericType.runtimeconfig.json
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\bin\Debug\net6.0\HomeTaskGenericType.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\bin\Debug\net6.0\HomeTaskGenericType.pdb
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\obj\Debug\net6.0\HomeTaskGenericType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\obj\Debug\net6.0\HomeTaskGenericType.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\obj\Debug\net6.0\HomeTaskGenericType.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\obj\Debug\net6.0\HomeTaskGenericType.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\obj\Debug\net6.0\HomeTaskGenericType.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\obj\Debug\net6.0\refint\HomeTaskGenericType.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\obj\Debug\net6.0\HomeTaskGenericType.pdb
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\obj\Debug\net6.0\HomeTaskGenericType.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskGenericType\obj\Debug\net6.0\ref\HomeTaskGenericType.dll
